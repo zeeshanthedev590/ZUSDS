@@ -1,0 +1,10 @@
+// this is a comment
+
+@Users
+    [username]
+    [password]
+$endusers
+@Posts
+    [username]
+    [content]
+$endposts

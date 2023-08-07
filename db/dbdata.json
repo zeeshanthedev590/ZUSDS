@@ -1,0 +1,14 @@
+{
+  "Users": {
+    "fields": [
+      "username",
+      "password"
+    ]
+  },
+  "Posts": {
+    "fields": [
+      "username",
+      "content"
+    ]
+  }
+}
