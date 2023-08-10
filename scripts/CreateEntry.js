@@ -36,13 +36,3 @@ function addEntry(type, data) {
     console.error(`Error adding ${type.toLowerCase()} entry:`, error);
   }
 }
-
-// Example usage for adding a new user entry without specifying fields:
-
-// const newUserInput = ["user123", "pass123"];
-// addEntry("Users", newUserInput);
-
-// Example usage for adding a new post entry without specifying fields:
-
-// const newPostInput = ["user123", "This is a new post."];
-// addEntry("Posts", newPostInput);
