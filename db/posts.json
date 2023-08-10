@@ -1,1 +1,6 @@
-{}
+[
+  {
+    "username": "user123",
+    "content": "This is a new post."
+  }
+]
