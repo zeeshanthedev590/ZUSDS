@@ -1,3 +1,3 @@
-## Hello World
+## ZUSDS
 
-This is the ZUSDS datastore
+This is the ZUSDS datastore (a part of the Z4 stack)
